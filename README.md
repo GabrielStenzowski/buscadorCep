@@ -29,6 +29,9 @@ git clone https://github.com/GabrielStenzowski/buscadorCep.git
 
 <h4>Install the dependencies</h4>
 
+```
 npm install
-
+```
+```
 npm start
+```
