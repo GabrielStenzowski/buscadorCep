@@ -32,6 +32,9 @@ git clone https://github.com/GabrielStenzowski/buscadorCep.git
 ```
 npm install
 ```
+
+<h4>Initialize application</h4>
+
 ```
 npm start
 ```
