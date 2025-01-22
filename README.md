@@ -36,5 +36,5 @@ npm install
 <h4>Initialize application</h4>
 
 ```
-npm start
+npm run start
 ```
